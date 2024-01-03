@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-br">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jogo de Plataforma 2D na Godot</title>
-</head>
 
-<body>
+
 
     <h1>Bem-vindo ao Jogo de Plataforma 2D na Godot</h1>
 
@@ -35,6 +28,4 @@
     <p>Divirta-se,</p>
     <p>Elaborado por Marcos</p>
 
-</body>
 
-</html>
